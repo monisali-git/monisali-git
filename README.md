@@ -1,88 +1,31 @@
-# GitHub Repository Updates
+# Hi, I'm Monis Ali
 
-Use these updates to make the GitHub profile stronger for Data Analyst, MIS Executive, and Business Analyst roles.
+Aspiring Data Analyst with practical experience in MIS reporting, data management, account operations, sales tracking, payment records, and dashboard reporting.
 
-## Profile Bio
+I work with Excel, Power BI, Power Query, DAX, Google Sheets, data cleaning, KPI tracking, and dashboard visualization to turn business data into clear insights.
 
-Aspiring Data Analyst | Excel | Power BI | Power Query | DAX | MIS Reporting | KPI Dashboards
+## Skills
 
-## Pinned Repository Order
+- Excel: Pivot Tables, VLOOKUP, XLOOKUP, INDEX-MATCH, COUNTIF, data cleaning, dashboards, basic macros
+- Power BI: Power Query, DAX measures, slicers, KPI dashboards, visual reports
+- Data Analytics: MIS reporting, KPI tracking, sales analysis, data validation, payment tracking, reconciliation support
+- Tools: MS Excel, Google Sheets, MS Word, PowerPoint, Figma
+- Web Basics: HTML, CSS
 
-1. E-Commerce-Dashboard
-2. shipping-data-analysis
-3. monis-ali-portfolio
-4. sql-learning
-5. monis-first
-6. table_function
+## Featured Projects
 
-## Repository Descriptions
+### E-Commerce Sales Analytics Dashboard
+KPI dashboard prototype for 7,182 orders covering revenue, profit, total orders, units sold, average order value, margin, trends, category mix, segment performance, and sales pipeline.
 
-### E-Commerce-Dashboard
-KPI dashboard prototype for e-commerce sales analysis covering revenue, profit, orders, AOV, margin, trends, categories, segments, and sales pipeline.
+### Shipping Data Analysis
+Analysis of shipping data to identify sales performance, regional trends, customer segments, delivery insights, and business opportunities using Excel dashboards and visual reporting.
 
-Topics:
-excel, dashboard, data-analysis, sales-analysis, ecommerce-dashboard, kpi, html, css
+### SQL Learning
+SQL practice repository covering basic commands, filtering, joins, aggregations, and beginner-friendly query practice.
 
-### shipping-data-analysis
-Shipping data analysis project focused on sales performance, regional trends, customer segments, delivery insights, and dashboard-based business reporting.
+## Connect With Me
 
-Topics:
-shipping-data, data-analysis, excel-dashboard, sales-analysis, business-insights, data-visualization
-
-### monis-ali-portfolio
-Personal data analytics portfolio showcasing Excel, Power BI, dashboard projects, SQL practice, and business reporting work.
-
-Topics:
-portfolio, data-analyst, power-bi, excel, sql, dashboard, html, css
-
-### sql-learning
-SQL learning repository with basic commands, filtering, joins, aggregations, and practice queries for data analysis.
-
-Topics:
-sql, data-analysis, database, joins, aggregation, beginner-sql, practice-queries
-
-### monis-first
-My first GitHub repository for practicing Git, GitHub, and basic project documentation.
-
-Topics:
-github-practice, first-repository, learning, beginner, coding-practice
-
-### table_function
-C programming practice project that takes user input and prints a multiplication table.
-
-Topics:
-c-programming, beginner, practice, table-program, user-input
-
-## README Sections Every Project Should Have
-
-Use this structure in important project repositories:
-
-```md
-# Project Name
-
-Short one-line explanation of the project.
-
-## Objective
-Explain the business problem or learning goal.
-
-## Tools Used
-- Excel / Power BI / SQL / HTML / CSS
-
-## Key Features
-- KPI tracking
-- Dashboard visuals
-- Data cleaning
-- Trend analysis
-- Business insights
-
-## Insights
-- Add 3 to 5 important findings from the project.
-
-## Preview
-Add dashboard screenshot here.
-
-## Author
-Monis Ali
-GitHub: https://github.com/monisali-git
-Portfolio: https://monisali-git.github.io/monis-ali-portfolio
-```
+- Portfolio: https://monisali-git.github.io/monis-ali-portfolio
+- LinkedIn: https://linkedin.com/in/monis-ali
+- GitHub: https://github.com/monisali-git
+- Email: monis.analyst@gmail.com
