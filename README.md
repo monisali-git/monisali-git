@@ -12,7 +12,7 @@
 
 ## 📝 Professional Summary
 
-Aspiring Data Analyst with hands-on experience in MIS reporting, sales tracking, payment records, data management, and dashboard development. Skilled in **Advanced Excel**, **Power BI**, **Power Query**, **DAX**, **Google Sheets**, and data visualization. Experienced in building interactive dashboard projects and transforming raw data into actionable business insights.
+Aspiring Data Analyst with hands-on experience in MIS reporting, sales tracking, payment records, data management, and dashboard development. Skilled in **Advanced Excel**, **MY SQL**, **Postgre SQL**, **Power BI**, **Power Query**, **DAX**, **Google Sheets**, and data visualization. Experienced in building interactive dashboard projects and transforming raw data into actionable business insights.
 
 > **Seeking:** Data Analyst · MIS Executive · Business Analyst roles
 
