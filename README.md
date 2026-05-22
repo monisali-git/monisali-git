@@ -25,7 +25,7 @@ Aspiring Data Analyst with hands-on experience in MIS reporting, sales tracking,
 | **Excel** | Pivot Tables, VLOOKUP, XLOOKUP, INDEX-MATCH, Data Cleaning, Dashboard Creation, Advanced Macros |
 | **Power BI** | Power Query, DAX, KPI Dashboards, Interactive Reports, Data Modeling |
 | **Data & MIS** | MIS Reporting, KPI Tracking, Sales Analysis, Data Validation, Business Reporting |
-| **Tools** | MS Excel, Google Sheets, MS Word, PowerPoint, Figma, HTML, CSS, JavaScript |
+| **Tools** | MS Excel, Google Sheets, MS Word, PowerPoint, Figma, HTML, CSS, MY SQL, Postgre SQL |
 
 ---
 
