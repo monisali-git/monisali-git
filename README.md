@@ -1,6 +1,6 @@
 # 👋 Monis Ali — Data Analyst | MIS Executive | Dashboard Developer
 
-> Transforming raw data into meaningful business insights through analytics, dashboards, and reporting.
+> Transforming raw data into meaningful business insights through advanced analytics, AI-assisted workflows, and interactive dashboards.
 
 📍 Bhubaneswar, Odisha, India &nbsp;|&nbsp; 📧 monis.analyst@gmail.com &nbsp;|&nbsp; 📞 +91 9556896260  
 
@@ -12,11 +12,11 @@
 
 # 📝 Professional Summary
 
-Data Analyst and MIS Executive with hands-on experience in dashboard development, MIS reporting, sales analysis, data management, and business reporting. Skilled in Excel, Power BI, SQL, Power Query, DAX, and Google Sheets for transforming raw data into actionable business insights.
+Results-driven Data Analyst with 4+ years of experience in Excel-based MIS reporting, Power BI dashboard development, and business data analysis. Skilled in Power Query, DAX, SQL, and Python (Pandas, Scikit-learn). 
 
-Experienced in building interactive dashboards, KPI reports, and business analytics projects using modern visualization tools and web technologies. Passionate about data-driven decision-making and continuous learning in analytics and business intelligence.
+Proven track record of delivering interactive dashboards on large datasets (1.28L+ rows) and automating MIS reports to support management decisions. Proficient in AI-assisted workflow optimization using Claude AI and ChatGPT. Certified in Master Data Management, Supply Chain Analytics, and Data Analytics.
 
-> **Open To Roles:** Data Analyst · MIS Executive · Business Analyst · Reporting Analyst
+> **Open To Roles:** Data Analyst · BI Developer · MIS Executive · Reporting Analyst
 
 ---
 
@@ -24,12 +24,11 @@ Experienced in building interactive dashboards, KPI reports, and business analyt
 
 | Category | Skills |
 |----------|--------|
-| **Excel & Reporting** | Pivot Tables, VLOOKUP, XLOOKUP, INDEX-MATCH, Conditional Formatting, Data Cleaning, Dashboard Creation, Advanced Excel |
-| **Power BI** | Power Query, DAX, KPI Dashboards, Interactive Reports, Data Modeling, Data Transformation |
-| **SQL & Databases** | MySQL, PostgreSQL, Basic Query Optimization, Joins, Aggregations |
-| **Programming & Web** | HTML, CSS, Python (Learning for Data Analysis) |
-| **Business & MIS** | MIS Reporting, KPI Tracking, Sales Analysis, Inventory Reports, Business Reporting, Data Validation |
-| **Tools & Platforms** | MS Excel, Google Sheets, PowerPoint, Word, Figma, Canva, GitHub |
+| **Excel & Reporting** | Advanced Excel, Pivot Tables, Power Query, VLOOKUP, XLOOKUP, INDEX-MATCH, Conditional Formatting, Macros, Data Validation |
+| **Power BI & DAX** | Data Modeling, KPI Dashboards, Interactive Reports, DAX Measures (CALCULATE, SUMX, RANKX), Data Transformation |
+| **SQL & Programming** | SQL (MySQL, PostgreSQL), Joins, Aggregations, Python, Pandas, Scikit-learn, Matplotlib, HTML, CSS |
+| **Domain & AI Tools** | Master Data Management, Supply Chain Analytics, MIS Reporting, KPI Tracking, Claude AI, ChatGPT (Workflow Automation) |
+| **Tools & Platforms** | MS Excel, Google Sheets, Jupyter Notebook, Figma, Canva, GitHub |
 
 ---
 
@@ -37,76 +36,75 @@ Experienced in building interactive dashboards, KPI reports, and business analyt
 
 ## Account Executive  
 ### Angel One Sub-Brokership · Bhubaneswar  
-📅 *1 Year 9 Months*
+📅 *Jan 2022 – Sep 2023 (1 Year 9 Months)*
 
-- Managed account opening, KYC verification, brokerage records, and onboarding processes.
-- Maintained operational reports and customer databases using Excel and Google Sheets.
-- Assisted in daily reporting activities and ensured data accuracy for business operations.
-- Supported client documentation, transaction tracking, and account management workflows.
+- Maintained and validated customer onboarding datasets for **1,000+ accounts** using Excel, ensuring zero reporting errors over 6 months.
+- Generated daily/monthly operational reports using Pivot Tables and VLOOKUP, reducing manual reporting time by **35%**.
+- Streamlined KYC verification and record management workflows.
+- Improved team turnaround speed and operational efficiency.
 
 ---
 
-## MIS & Operations Support *(Part-Time)*  
-### Hamwood Commerce · Bhubaneswar  
-📅 *2 Years 6 Months*
+## MIS & Operations Analyst *(Part-Time)* ### Hamwood Commerce · Bhubaneswar  
+📅 *Mar 2020 – Aug 2022 (2 Years 6 Months)*
 
-- Managed sales, inventory, and payment records using Excel-based MIS systems.
-- Generated operational reports to monitor sales performance and outstanding balances.
-- Maintained stock tracking and business reporting documentation.
-- Improved reporting accuracy through data cleaning and structured record management.
+- Built weekly MIS reports for sales, payments, and inventory tracking, utilized by management for critical decision-making.
+- Applied XLOOKUP, INDEX-MATCH, and nested IF formulas to automate data reconciliation, cutting manual effort by **~40%**.
+- Maintained clean business databases through structured data validation.
+- Conducted regular quality checks to support operational reporting and stock monitoring.
 
 ---
 
 # 🚀 Featured Projects
 
-## 🚢 India Shipping Analytics Dashboard  
-**Tech Stack:** `Chart.js` `D3.js` `HTML` `CSS`
+## 🛒 Amazon India Sales Dashboard  
+**Tech Stack:** `Power BI` `Power Query` `DAX` `Excel`
 
-- Developed a modern interactive analytics dashboard for shipping and logistics data visualization.
-- Created KPI cards, heatmaps, filters, charts, and region-wise performance analysis.
-- Added CSV/Excel upload functionality for dynamic dashboard updates.
-- Implemented responsive UI with advanced hover effects and interactive charts.
+- Cleaned and modeled **1.28 lakh+ raw rows**—handled nulls, duplicates, and data-type errors using Power Query.
+- Built revenue trend, cancellation rate, and product-level KPI dashboards using DAX measures (CALCULATE, SUMX).
+- Designed dashboard layouts with business-focused KPI visualization concepts.
+- Derived actionable business insights, identifying category-specific sales drivers to optimize inventory.
 
 ---
 
 ## 📱 Mobile Sales Performance Dashboard  
-**Tech Stack:** `Power BI` `Power Query` `DAX`
+**Tech Stack:** `Power BI` `DAX` `Power Query` `ChatGPT`
 
 - Designed a Power BI dashboard for analyzing mobile sales performance and customer behavior.
-- Created city-wise sales maps, monthly trend analysis, brand comparisons, and KPI visuals.
-- Added dynamic slicers and filters for interactive reporting and business insights.
-- Used Power Query for data transformation and DAX for calculated measures.
+- Created city-wise and brand-wise sales KPI dashboards with dynamic slicers and cross-filtering.
+- Used RANKX and time-intelligence DAX functions for YoY and MoM trend analysis.
+- Utilized ChatGPT to optimize complex DAX queries and implement advanced interactive reporting filters.
 
 ---
 
-## 🛒 Amazon India Sales Dashboard  
-**Tech Stack:** `Excel` `Power Query` `HTML` `CSS`
+## 🚢 India Shipping Analytics Dashboard  
+**Tech Stack:** `HTML` `CSS` `Chart.js` `Claude AI`
 
-- Built a sales performance dashboard for tracking revenue, returns, and cancellation trends.
-- Performed data cleaning and category-wise sales analysis using Power Query.
-- Designed dashboard layouts with business-focused KPI visualization concepts.
-- Generated actionable insights for product and sales performance tracking.
+- Developed a fully interactive web dashboard with KPI cards, regional heatmaps, and dynamic filters with AI assistance.
+- Added live CSV/Excel upload functionality for real-time data refresh requiring zero manual intervention.
+- Implemented responsive UI with advanced hover effects and interactive charts.
+- Demonstrated applied AI-assisted development workflow for rapid analytics prototyping.
 
 ---
 
-## 📊 Interactive Data Visualization Portfolio Website  
-**Tech Stack:** `HTML` `CSS` 
+## 🐍 Python Data Analysis – Decision Tree Project  
+**Tech Stack:** `Python` `Pandas` `Scikit-learn` `Matplotlib`
 
-- Developed a personal portfolio website showcasing dashboards, projects, certifications, and skills.
-- Designed a responsive modern UI inspired by professional analytics portfolios.
-- Integrated GitHub and project showcase sections with interactive animations and hover effects.
+- Performed end-to-end data analysis including data loading, EDA, data cleaning, and visualization using Python.
+- Built and trained a Decision Tree classification model to predict outcomes from raw structured data.
 
 ---
 
 # 🎓 Certifications
 
-| Certification | Issuer |
-|---------------|--------|
-| TCS iON Career Edge — IT for Non-IT | TCS iON |
-| Data Analyst Internship Certificate | Unified Mentor Pvt. Ltd. |
-| Power BI Crash Course | Skill Course |
-| Data Analyst 101 | Simplilearn SkillUp |
-| Optical Fiber Cable Splicer Certification | Skill India |
+| Certification | Issuer | Year |
+|---------------|--------|------|
+| **Data Analytics Projects** | Simplilearn SkillUp × Microsoft | 2026 |
+| **Basics of Sales Order Management in Supply Chain** | TCS iON | 2026 |
+| **Master Data Management for Beginners** | TCS iON | 2024 |
+| **TCS iON Career Edge — IT for Non-IT** | TCS iON | 2024 |
+| **Microsoft Excel - Learn MS EXCEL For DATA Analysis** | Udemy | 2020 |
+| **Data Analyst Internship Certificate** | Unified Mentor Pvt. Ltd. | - |
 
 ---
 
@@ -114,9 +112,9 @@ Experienced in building interactive dashboards, KPI reports, and business analyt
 
 | Degree | Institution | Year |
 |--------|-------------|------|
-| Bachelor of Arts (History Honours) | Utkal University, Odisha | 2020 – 2023 |
-| Higher Secondary — Science (PCMB) | Maharishi College of Natural Law, CHSE Odisha | 2018 – 2020 |
-| Matriculation / 10th | Jharkhand Academic Council (JAC) | 2018 |
+| **Bachelor of Arts (History Honours)** | Utkal University, Odisha | 2020 – 2023 |
+| **Higher Secondary — Science (PCMB)** | Maharishi College of Natural Law, CHSE Odisha | 2018 – 2020 |
+| **Matriculation / 10th** | Jharkhand Academic Council (JAC) | 2018 |
 
 ---
 
@@ -124,10 +122,10 @@ Experienced in building interactive dashboards, KPI reports, and business analyt
 
 | Language | Proficiency |
 |----------|-------------|
-| Urdu | Native |
-| Hindi | Fluent |
-| English | Professional Working Proficiency |
-| Odia | Professional Working Proficiency |
+| **Urdu** | Native |
+| **Hindi** | Fluent |
+| **English** | Professional Working Proficiency |
+| **Odia** | Professional Working Proficiency |
 
 ---
 
@@ -143,31 +141,3 @@ Experienced in building interactive dashboards, KPI reports, and business analyt
  ┃ ┗ 📂 certificates/
  ┣ 📄 README.md
  ┗ 📄 LICENSE
-```
-
----
-
-# 📈 Career Goals
-
-- Build advanced business intelligence dashboards.
-- Strengthen SQL and Python skills for data analytics.
-- Work on real-world business reporting and analytics projects.
-- Grow as a professional Data Analyst and BI Developer.
-
----
-
-# 📬 Contact Information
-
-| Platform | Link |
-|----------|------|
-| 📧 Email | [monis.analyst@gmail.com](mailto:monis.analyst@gmail.com) |
-| 💼 LinkedIn | [linkedin.com/in/monis-ali](https://linkedin.com/in/monis-ali) |
-| 💻 GitHub | [github.com/monisali-git](https://github.com/monisali-git) |
-| 🌐 Portfolio | [monisali-git.github.io/monis-ali-portfolio](https://monisali-git.github.io/monis-ali-portfolio) |
-
----
-
-<p align="center">
-  <strong>Made with ❤️ by Monis Ali</strong><br>
-  Data Analyst • Dashboard Developer • MIS Executive
-</p>
