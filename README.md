@@ -1,8 +1,8 @@
-# 👋 Monis Ali — Data Analyst | MIS Executive
+# 👋 Monis Ali — Data Analyst | MIS Executive | Dashboard Developer
 
-> Transforming raw data into actionable business insights.
+> Transforming raw data into meaningful business insights through analytics, dashboards, and reporting.
 
-📍 Bhubaneswar, India &nbsp;|&nbsp; 📧 monis.analyst@gmail.com &nbsp;|&nbsp; 📞 +91 9556896260
+📍 Bhubaneswar, Odisha, India &nbsp;|&nbsp; 📧 monis.analyst@gmail.com &nbsp;|&nbsp; 📞 +91 9556896260  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-monis--ali-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/monis-ali)
 [![GitHub](https://img.shields.io/badge/GitHub-monisali--git-181717?style=flat&logo=github)](https://github.com/monisali-git)
@@ -10,125 +10,164 @@
 
 ---
 
-## 📝 Professional Summary
+# 📝 Professional Summary
 
-Aspiring Data Analyst with hands-on experience in MIS reporting, sales tracking, payment records, data management, and dashboard development. Skilled in **Advanced Excel**, **MY SQL**, **Postgre SQL**, **Power BI**, **Power Query**, **DAX**, **Google Sheets**, and data visualization. Experienced in building interactive dashboard projects and transforming raw data into actionable business insights.
+Aspiring **Data Analyst** and **MIS Executive** with practical experience in data management, MIS reporting, dashboard development, sales tracking, and business reporting. Skilled in transforming raw datasets into actionable insights using **Excel, Power BI, SQL, Power Query, DAX, and Google Sheets**.
 
-> **Seeking:** Data Analyst · MIS Executive · Business Analyst roles
+Experienced in creating interactive dashboards, KPI reports, and business analytics projects using modern visualization tools and web technologies. Passionate about solving business problems with data-driven decision-making and continuously improving analytical skills.
+
+> **Open To Roles:** Data Analyst · MIS Executive · Business Analyst · Reporting Analyst
 
 ---
 
-## 🛠️ Technical Skills
+# 🛠️ Technical Skills
 
 | Category | Skills |
 |----------|--------|
-| **Excel** | Pivot Tables, VLOOKUP, XLOOKUP, INDEX-MATCH, Data Cleaning, Dashboard Creation, Advanced Macros |
-| **Power BI** | Power Query, DAX, KPI Dashboards, Interactive Reports, Data Modeling |
-| **Data & MIS** | MIS Reporting, KPI Tracking, Sales Analysis, Data Validation, Business Reporting |
-| **Tools** | MS Excel, Google Sheets, MS Word, PowerPoint, Figma, HTML, CSS, MY SQL, Postgre SQL |
+| **Excel & Reporting** | Pivot Tables, VLOOKUP, XLOOKUP, INDEX-MATCH, Conditional Formatting, Data Cleaning, Dashboard Creation, Advanced Excel |
+| **Power BI** | Power Query, DAX, KPI Dashboards, Interactive Reports, Data Modeling, Data Transformation |
+| **SQL & Databases** | MySQL, PostgreSQL, Basic Query Optimization, Joins, Aggregations |
+| **Programming & Web** | HTML, CSS, Python (Learning for Data Analysis) |
+| **Business & MIS** | MIS Reporting, KPI Tracking, Sales Analysis, Inventory Reports, Business Reporting, Data Validation |
+| **Tools & Platforms** | MS Excel, Google Sheets, PowerPoint, Word, Figma, Canva, GitHub |
 
 ---
 
-## 💼 Work Experience
+# 💼 Work Experience
 
-### Account Executive
-**Angel One Sub-Brokership** · Bhubaneswar &nbsp;|&nbsp; *1 Year 9 Months*
+## Account Executive  
+### Angel One Sub-Brokership · Bhubaneswar  
+📅 *1 Year 9 Months*
 
-- Managed account opening, KYC verification, brokerage records, and client onboarding data.
-- Maintained operational reports and customer records using Excel and Google Sheets.
-- Supported account operations, reporting accuracy, and data management activities.
-
----
-
-### MIS & Operations Support *(Part-Time)*
-**Hamwood Commerce** · Bhubaneswar &nbsp;|&nbsp; *2 Years 6 Months*
-
-- Managed sales, inventory, and payment records using Excel and Google Sheets.
-- Generated operational and MIS reports for tracking sales and outstanding balances.
-- Supported data management, stock tracking, and reporting activities.
+- Managed account opening, KYC verification, brokerage records, and onboarding processes.
+- Maintained operational reports and customer databases using Excel and Google Sheets.
+- Assisted in daily reporting activities and ensured data accuracy for business operations.
+- Supported client documentation, transaction tracking, and account management workflows.
 
 ---
 
-## 🚀 Projects
+## MIS & Operations Support *(Part-Time)*  
+### Hamwood Commerce · Bhubaneswar  
+📅 *2 Years 6 Months*
 
-### 🚢 India Shipping Analytics Dashboard
-> `JavaScript` `Chart.js` `D3.js`
-
-- Built an interactive sales dashboard with KPI cards, charts, heatmaps, and regional filters.
-- Added Excel/CSV upload functionality for automatic dashboard updates.
-- Used JavaScript, Chart.js, and D3.js for data visualization and reporting.
-
----
-
-### 📱 Mobile Sales Performance Dashboard
-> `Power BI` `Power Query` `DAX`
-
-- Built an interactive Power BI dashboard to analyze mobile sales, transactions, customer ratings, and payment methods.
-- Created KPI cards, city-wise sales map, monthly trends, and brand/model performance visuals.
-- Added filters and slicers for dynamic data analysis and reporting.
+- Managed sales, inventory, and payment records using Excel-based MIS systems.
+- Generated operational reports to monitor sales performance and outstanding balances.
+- Maintained stock tracking and business reporting documentation.
+- Improved reporting accuracy through data cleaning and structured record management.
 
 ---
 
-### 🛒 Amazon India Sales Performance Dashboard
-> `Excel` `Power Query` `HTML` `CSS`
+# 🚀 Featured Projects
 
-- Developed a sales analysis dashboard/prototype for revenue, returns, cancellations, category performance, data cleaning, and business insights.
+## 🚢 India Shipping Analytics Dashboard  
+**Tech Stack:** `Chart.js` `D3.js` `HTML` `CSS`
 
----
-
-## 🎓 Certifications
-
-| # | Certification | Issuer |
-|---|---------------|--------|
-| 1 | TCS iON Career Edge — IT for Non-IT | TCS iON |
-| 2 | Data Analyst Internship | Unified Mentor Pvt. Ltd. |
-| 3 | Power BI Crash Course | Skill Course |
-| 4 | Data Analyst 101 | Simplilearn SkillUp |
+- Developed a modern interactive analytics dashboard for shipping and logistics data visualization.
+- Created KPI cards, heatmaps, filters, charts, and region-wise performance analysis.
+- Added CSV/Excel upload functionality for dynamic dashboard updates.
+- Implemented responsive UI with advanced hover effects and interactive charts.
 
 ---
 
-## 🎓 Education
+## 📱 Mobile Sales Performance Dashboard  
+**Tech Stack:** `Power BI` `Power Query` `DAX`
+
+- Designed a Power BI dashboard for analyzing mobile sales performance and customer behavior.
+- Created city-wise sales maps, monthly trend analysis, brand comparisons, and KPI visuals.
+- Added dynamic slicers and filters for interactive reporting and business insights.
+- Used Power Query for data transformation and DAX for calculated measures.
+
+---
+
+## 🛒 Amazon India Sales Dashboard  
+**Tech Stack:** `Excel` `Power Query` `HTML` `CSS`
+
+- Built a sales performance dashboard for tracking revenue, returns, and cancellation trends.
+- Performed data cleaning and category-wise sales analysis using Power Query.
+- Designed dashboard layouts with business-focused KPI visualization concepts.
+- Generated actionable insights for product and sales performance tracking.
+
+---
+
+## 📊 Interactive Data Visualization Portfolio Website  
+**Tech Stack:** `HTML` `CSS` 
+
+- Developed a personal portfolio website showcasing dashboards, projects, certifications, and skills.
+- Designed a responsive modern UI inspired by professional analytics portfolios.
+- Integrated GitHub and project showcase sections with interactive animations and hover effects.
+
+---
+
+# 🎓 Certifications
+
+| Certification | Issuer |
+|---------------|--------|
+| TCS iON Career Edge — IT for Non-IT | TCS iON |
+| Data Analyst Internship Certificate | Unified Mentor Pvt. Ltd. |
+| Power BI Crash Course | Skill Course |
+| Data Analyst 101 | Simplilearn SkillUp |
+| Optical Fiber Cable Splicer Certification | Skill India |
+
+---
+
+# 🎓 Education
 
 | Degree | Institution | Year |
 |--------|-------------|------|
-| Bachelor of Arts | Utkal University, Bhubaneswar | 2020 – 2023 |
-| Higher Secondary — Science (PCMB) | CHSE Odisha | 2018 – 2020 |
+| Bachelor of Arts (History Honours) | Utkal University, Odisha | 2020 – 2023 |
+| Higher Secondary — Science (PCMB) | Maharishi College of Natural Law, CHSE Odisha | 2018 – 2020 |
 | Matriculation / 10th | Jharkhand Academic Council (JAC) | 2018 |
 
 ---
 
-## 🌐 Languages
+# 🌐 Languages
 
 | Language | Proficiency |
 |----------|-------------|
 | Urdu | Native |
 | Hindi | Fluent |
-| English | Proficient |
-| Odia | Proficient |
+| English | Professional Working Proficiency |
+| Odia | Professional Working Proficiency |
 
 ---
 
-## 📁 Portfolio Files
+# 📁 Portfolio Structure
 
-```
+```bash
 📦 Monis Ali Portfolio
- ┣ 📄 Monis_Ali_Portfolio_V3.html   ← Main portfolio website
- ┣ 📄 Monis_Ali_ATS_Resume_V6.docx  ← ATS-friendly resume
- ┗ 📄 README.md                     ← This file
+ ┣ 📄 Monis_Ali_Portfolio_V4.html
+ ┣ 📄 Monis_Ali_ATS_Resume_V7.docx
+ ┣ 📂 assets/
+ ┃ ┣ 📂 images/
+ ┃ ┣ 📂 dashboards/
+ ┃ ┗ 📂 certificates/
+ ┣ 📄 README.md
+ ┗ 📄 LICENSE
 ```
 
 ---
 
-## 📬 Contact
+# 📈 Career Goals
+
+- Build advanced business intelligence dashboards.
+- Strengthen SQL and Python skills for data analytics.
+- Work on real-world business reporting and analytics projects.
+- Grow as a professional Data Analyst and BI Developer.
+
+---
+
+# 📬 Contact Information
 
 | Platform | Link |
 |----------|------|
-| Email | [monis.analyst@gmail.com](mailto:monis.analyst@gmail.com) |
-| Phone | +91 9556896260 |
-| LinkedIn | [linkedin.com/in/monis-ali](https://linkedin.com/in/monis-ali) |
-| GitHub | [github.com/monisali-git](https://github.com/monisali-git) |
-| Portfolio | [monisali-git.github.io/monis-ali-portfolio](https://monisali-git.github.io/monis-ali-portfolio) |
+| 📧 Email | [monis.analyst@gmail.com](mailto:monis.analyst@gmail.com) |
+| 💼 LinkedIn | [linkedin.com/in/monis-ali](https://linkedin.com/in/monis-ali) |
+| 💻 GitHub | [github.com/monisali-git](https://github.com/monisali-git) |
+| 🌐 Portfolio | [monisali-git.github.io/monis-ali-portfolio](https://monisali-git.github.io/monis-ali-portfolio) |
 
 ---
 
-<p align="center">Made with ❤️ by Monis Ali · Bhubaneswar, India · 2025</p>
+<p align="center">
+  <strong>Made with ❤️ by Monis Ali</strong><br>
+  Data Analyst • Dashboard Developer • MIS Executive
+</p>
