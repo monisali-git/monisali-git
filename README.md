@@ -12,9 +12,9 @@
 
 # 📝 Professional Summary
 
-Aspiring **Data Analyst** and **MIS Executive** with practical experience in data management, MIS reporting, dashboard development, sales tracking, and business reporting. Skilled in transforming raw datasets into actionable insights using **Excel, Power BI, SQL, Power Query, DAX, and Google Sheets**.
+Data Analyst and MIS Executive with hands-on experience in dashboard development, MIS reporting, sales analysis, data management, and business reporting. Skilled in Excel, Power BI, SQL, Power Query, DAX, and Google Sheets for transforming raw data into actionable business insights.
 
-Experienced in creating interactive dashboards, KPI reports, and business analytics projects using modern visualization tools and web technologies. Passionate about solving business problems with data-driven decision-making and continuously improving analytical skills.
+Experienced in building interactive dashboards, KPI reports, and business analytics projects using modern visualization tools and web technologies. Passionate about data-driven decision-making and continuous learning in analytics and business intelligence.
 
 > **Open To Roles:** Data Analyst · MIS Executive · Business Analyst · Reporting Analyst
 
