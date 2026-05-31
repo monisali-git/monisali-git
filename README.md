@@ -99,12 +99,13 @@ Proven track record of delivering interactive dashboards on large datasets (1.28
 
 | Certification | Issuer | Year |
 |---------------|--------|------|
+| **SQL FOR DATA SCIENCE** | Simplilearn SkillUp × Microsoft | 2026 |
 | **Data Analytics Projects** | Simplilearn SkillUp × Microsoft | 2026 |
 | **Basics of Sales Order Management in Supply Chain** | TCS iON | 2026 |
 | **Master Data Management for Beginners** | TCS iON | 2024 |
 | **TCS iON Career Edge — IT for Non-IT** | TCS iON | 2024 |
 | **Microsoft Excel - Learn MS EXCEL For DATA Analysis** | Udemy | 2020 |
-| **Data Analyst Internship Certificate** | Unified Mentor Pvt. Ltd. | - |
+| **Data Analyst Internship Certificate** | Unified Mentor Pvt. Ltd. | 2024 |
 
 ---
 
