@@ -45,7 +45,8 @@ Proven track record of delivering interactive dashboards on large datasets (1.28
 
 ---
 
-## MIS & Operations Analyst *(Part-Time)* ### Hamwood Commerce · Bhubaneswar  
+## MIS & Operations Analyst *(Part-Time)*
+### Hamwood Commerce · Bhubaneswar  
 📅 *Mar 2020 – Aug 2022 (2 Years 6 Months)*
 
 - Built weekly MIS reports for sales, payments, and inventory tracking, utilized by management for critical decision-making.
@@ -56,6 +57,19 @@ Proven track record of delivering interactive dashboards on large datasets (1.28
 ---
 
 # 🚀 Featured Projects
+
+## 🤖 AI Future Impact — Workforce Analytics Dashboard
+**Tech Stack:** `HTML` `CSS` `Chart.js` `JavaScript` `Claude AI`  
+🔗 [Live Demo](https://monisali-git.github.io/ai-workforce-analytics-dashboard/)
+
+- Designed and developed a **fully interactive web dashboard** analyzing AI's impact on workforce across **15,000 records spanning 2020–2026**.
+- Covered **10 job roles, 8 industries, and 9 countries** with multi-dimensional filter controls (Industry, Country, Year, Risk Level).
+- Built **6 dynamic visualizations** — Automation Risk Trend (line), AI Adoption by Industry (bar), Risk Distribution (donut), Role-wise Risk (horizontal bar), Country-wise AI Score, and Skill Gap vs Reskilling Urgency.
+- Displayed **6 real-time KPI cards** including Avg Automation Risk (46.18%), AI Replacement Score, Avg Salary Before/After AI, Reskilling Urgency, and Records count.
+- Implemented **live data table preview** with top 10 filtered records and dynamic filter reset functionality.
+- Demonstrated end-to-end AI-assisted analytics prototyping using Claude AI for rapid development.
+
+---
 
 ## 🛒 Amazon India Sales Dashboard  
 **Tech Stack:** `Power BI` `Power Query` `DAX` `Excel`
@@ -142,3 +156,4 @@ Proven track record of delivering interactive dashboards on large datasets (1.28
  ┃ ┗ 📂 certificates/
  ┣ 📄 README.md
  ┗ 📄 LICENSE
+```
