@@ -45,7 +45,7 @@ Proven track record of delivering interactive dashboards on large datasets (1.28
 
 ## Data Analytics Intern
 ### Unified Mentor Pvt. Ltd. · Remote
-📅 *Oct 2024 – Nov 2024 (2 Months)*
+📅 *Oct 2024 – Nov 2024 (1 Month)*
 
 - Completed hands-on data analytics internship working on real-world datasets.
 - Applied Excel, Python, and data visualization techniques to derive business insights.
