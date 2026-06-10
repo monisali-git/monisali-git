@@ -12,9 +12,9 @@
 
 # 📝 Professional Summary
 
-Results-driven Data Analyst with 4+ years of experience in Excel-based MIS reporting, Power BI dashboard development, and business data analysis. Skilled in Power Query, DAX, SQL, and Python (Pandas, Scikit-learn). 
+Results-driven Data Analyst with hands-on experience in Excel-based MIS reporting, Power BI dashboard development, and business data analysis. Skilled in Power Query, DAX, SQL, and Python (Pandas, Scikit-learn).
 
-Proven track record of delivering interactive dashboards on large datasets (1.28L+ rows) and automating MIS reports to support management decisions. Proficient in AI-assisted workflow optimization using Claude AI and ChatGPT. Certified in Master Data Management, Supply Chain Analytics, and Data Analytics.
+Proven track record of delivering interactive dashboards on large datasets (1.28L+ rows) and building end-to-end analytics projects. Proficient in AI-assisted workflow optimization using Claude AI and ChatGPT. Certified in Master Data Management, Supply Chain Analytics, and Data Analytics.
 
 > **Open To Roles:** Data Analyst · BI Developer · MIS Executive · Reporting Analyst
 
@@ -24,7 +24,7 @@ Proven track record of delivering interactive dashboards on large datasets (1.28
 
 | Category | Skills |
 |----------|--------|
-| **Excel & Reporting** | Advanced Excel, Pivot Tables, Power Query, VLOOKUP, XLOOKUP, INDEX-MATCH, Conditional Formatting, Macros, Data Validation |
+| **Excel & Reporting** | Advanced Excel, Pivot Tables, Power Query, VLOOKUP, INDEX-MATCH, Conditional Formatting, Data Validation |
 | **Power BI & DAX** | Data Modeling, KPI Dashboards, Interactive Reports, DAX Measures (CALCULATE, SUMX, RANKX), Data Transformation |
 | **SQL & Programming** | SQL (MySQL, PostgreSQL), Joins, Aggregations, Python, Pandas, Scikit-learn, Matplotlib, HTML, CSS |
 | **Domain & AI Tools** | Master Data Management, Supply Chain Analytics, MIS Reporting, KPI Tracking, Claude AI, ChatGPT (Workflow Automation) |
@@ -34,25 +34,22 @@ Proven track record of delivering interactive dashboards on large datasets (1.28
 
 # 💼 Work Experience
 
-## Account Executive  
-### Angel One Sub-Brokership · Bhubaneswar  
-📅 *Jan 2022 – Sep 2023 (1 Year 9 Months)*
+## Career Break — Competitive Exam Preparation
+### SSC CGL (Staff Selection Commission — Combined Graduate Level)
+📅 *Oct 2023 – Sep 2024 (1 Year)*
 
-- Maintained and validated customer onboarding datasets for **1,000+ accounts** using Excel, ensuring zero reporting errors over 6 months.
-- Generated daily/monthly operational reports using Pivot Tables and VLOOKUP, reducing manual reporting time by **35%**.
-- Streamlined KYC verification and record management workflows.
-- Improved team turnaround speed and operational efficiency.
+- Dedicated full-time preparation for SSC CGL, one of India's most competitive government recruitment exams.
+- Simultaneously pursued self-directed upskilling in Excel, Power BI, SQL, and Python to transition into data analytics.
 
 ---
 
-## MIS & Operations Analyst *(Part-Time)*
-### Hamwood Commerce · Bhubaneswar  
-📅 *Mar 2020 – Aug 2022 (2 Years 6 Months)*
+## Data Analytics Intern
+### Unified Mentor Pvt. Ltd. · Remote
+📅 *Oct 2024 – Nov 2024 (2 Months)*
 
-- Built weekly MIS reports for sales, payments, and inventory tracking, utilized by management for critical decision-making.
-- Applied XLOOKUP, INDEX-MATCH, and nested IF formulas to automate data reconciliation, cutting manual effort by **~40%**.
-- Maintained clean business databases through structured data validation.
-- Conducted regular quality checks to support operational reporting and stock monitoring.
+- Completed hands-on data analytics internship working on real-world datasets.
+- Applied Excel, Python, and data visualization techniques to derive business insights.
+- Built analytics projects covering end-to-end data pipeline from raw data to visual reporting.
 
 ---
 
@@ -71,17 +68,17 @@ Proven track record of delivering interactive dashboards on large datasets (1.28
 
 ---
 
-## 🛒 Amazon India Sales Dashboard  
+## 🛒 Amazon India Sales Dashboard
 **Tech Stack:** `Power BI` `Power Query` `DAX` `Excel`
 
-- Cleaned and modeled **1.28 lakh+ raw rows**—handled nulls, duplicates, and data-type errors using Power Query.
+- Cleaned and modeled **1.28 lakh+ raw rows** — handled nulls, duplicates, and data-type errors using Power Query.
 - Built revenue trend, cancellation rate, and product-level KPI dashboards using DAX measures (CALCULATE, SUMX).
 - Designed dashboard layouts with business-focused KPI visualization concepts.
 - Derived actionable business insights, identifying category-specific sales drivers to optimize inventory.
 
 ---
 
-## 📱 Mobile Sales Performance Dashboard  
+## 📱 Mobile Sales Performance Dashboard
 **Tech Stack:** `Power BI` `DAX` `Power Query` `ChatGPT`
 
 - Designed a Power BI dashboard for analyzing mobile sales performance and customer behavior.
@@ -91,7 +88,7 @@ Proven track record of delivering interactive dashboards on large datasets (1.28
 
 ---
 
-## 🚢 India Shipping Analytics Dashboard  
+## 🚢 India Shipping Analytics Dashboard
 **Tech Stack:** `HTML` `CSS` `Chart.js` `Claude AI`
 
 - Developed a fully interactive web dashboard with KPI cards, regional heatmaps, and dynamic filters with AI assistance.
@@ -101,7 +98,7 @@ Proven track record of delivering interactive dashboards on large datasets (1.28
 
 ---
 
-## 🐍 Python Data Analysis – Decision Tree Project  
+## 🐍 Python Data Analysis – Decision Tree Project
 **Tech Stack:** `Python` `Pandas` `Scikit-learn` `Matplotlib`
 
 - Performed end-to-end data analysis including data loading, EDA, data cleaning, and visualization using Python.
